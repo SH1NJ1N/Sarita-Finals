@@ -163,10 +163,9 @@ footer{
     text-align: center;
 }
 .footer-content img{
-    width: 160px;
+    width: 100px;
     position: absolute;
-    margin-right: -20%;
-    top: 3;
+    margin-left: -20%;
     display: block;
     z-index: -1;
 }
@@ -186,7 +185,7 @@ footer{
     margin-left: 10px;
 }
 .footer-content span{
-    color: hsl(0, 0%, 100%);
+    color: hsl(213, 100%, 70%);
     opacity: 0.4;
     font-weight: 200;
     margin-left: 10px;
